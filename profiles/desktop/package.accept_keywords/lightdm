@@ -1,0 +1,6 @@
+# required by x11-misc/lightdm-1.30.0::gentoo[gtk]
+# required by lightdm (argument)
+x11-misc/lightdm-gtk-greeter **
+# required by x11-misc/lightdm-gtk-greeter-2.0.6::gentoo
+x11-misc/lightdm **
+

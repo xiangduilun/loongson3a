@@ -1,0 +1,10 @@
+# required by sys-boot/efibootmgr-16::gentoo
+# required by sys-boot/grub-2.02-r4::gentoo[grub_platforms_efi-64,-grub_platforms_efi-32]
+# required by =sys-boot/grub-2.02-r4 (argument)
+sys-libs/efivar **
+# required by sys-boot/grub-2.02-r4::gentoo[grub_platforms_efi-64,-grub_platforms_efi-32]
+# required by =sys-boot/grub-2.02-r4 (argument)
+sys-boot/efibootmgr **
+# required by =sys-boot/grub-2.02-r4 (argument)
+sys-boot/grub **
+

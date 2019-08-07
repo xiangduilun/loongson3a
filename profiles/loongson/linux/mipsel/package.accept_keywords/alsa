@@ -1,0 +1,10 @@
+# required by media-plugins/alsa-plugins-1.1.9-r1::gentoo[pulseaudio]
+media-sound/pulseaudio **
+# required by media-sound/pulseaudio-12.2-r2::gentoo[asyncns]
+# required by media-plugins/alsa-plugins-1.1.9-r1::gentoo[pulseaudio]
+net-libs/libasyncns **
+# required by media-sound/pulseaudio-12.2-r2::gentoo[alsa,alsa-plugin]
+# required by www-client/firefox-52.9.0::gentoo[pulseaudio]
+# required by firefox (argument)
+media-plugins/alsa-plugins **
+

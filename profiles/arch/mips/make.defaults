@@ -1,2 +1,12 @@
 USE_EXPAND="CPU_FLAGS_MIPS ${USE_EXPAND}"
 USE_EXPAND_HIDDEN="-CPU_FLAGS_MIPS"
+
+USE="fortran openmp"
+
+# Donnie Berkholz <dberkholz@gentoo.org> (2006-08-18)
+# Defaults for video drivers
+VIDEO_CARDS="amdgpu r600 radeon radeonsi vesa"
+
+# Danny van Dyk <kugelfang@gentoo.org> (2006-12-22)
+# Default for ALSA_CARDS USE_EXPAND variable.
+ALSA_CARDS="li5451 als4000 atiixp atiixp-modem bt87x ca0106 cmipci emu10k1x ens1370 ens1371 es1938 es1968 fm801 hda-intel intel8x0 intel8x0m maestro3 trident usb-audio via82xx via82xx-modem ymfpci"

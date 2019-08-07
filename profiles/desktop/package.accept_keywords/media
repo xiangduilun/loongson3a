@@ -1,0 +1,55 @@
+   # required by inkscape (argument)
+media-gfx/inkscape **
+# required by blender (argument)
+media-gfx/blender **
+# required by rhythmbox (argument)
+media-sound/rhythmbox **
+
+# required by media-gfx/blender-2.79b-r1::gentoo
+# # required by blender (argument)
+dev-cpp/eigen **
+# # required by smplayer (argument)
+media-video/smplayer **
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/linguist-tools **
+# # required by rhythmbox (argument)
+# =media-sound/rhythmbox-3.4.3 **
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/qtsingleapplication **
+# # required by dev-qt/qtsingleapplication-2.6.1_p20171024::gentoo
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/qtnetwork **
+# # required by media-gfx/inkscape-0.92.4::gentoo
+# # required by inkscape (argument)
+media-gfx/potrace **
+# # required by media-gfx/inkscape-0.92.4::gentoo
+# # required by inkscape (argument)
+media-gfx/uniconvertor **
+# # required by media-gfx/inkscape-0.92.4::gentoo[cdr]
+# # required by inkscape (argument)
+<media-libs/libcdr-9999 **
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/qtscript **
+# # required by media-gfx/inkscape-0.92.4::gentoo
+# # required by inkscape (argument)
+media-gfx/scour **
+# # required by dev-qt/qtsingleapplication-2.6.1_p20171024::gentoo
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/qtlockedfile **
+# # required by media-gfx/blender-2.79b-r1::gentoo[openexr]
+# # required by blender (argument)
+media-libs/openexr **
+# # required by media-gfx/uniconvertor-2.0_pre379-r2::gentoo
+# # required by media-gfx/inkscape-0.92.4::gentoo
+# # required by inkscape (argument)
+dev-python/pillow **
+# # required by dev-python/pillow-6.1.0::gentoo
+# # required by media-gfx/uniconvertor-2.0_pre379-r2::gentoo
+# # required by media-gfx/inkscape-0.92.4::gentoo
+# # required by inkscape (argument)
+dev-python/olefile **

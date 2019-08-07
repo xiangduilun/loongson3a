@@ -1,0 +1,5 @@
+app-eselect/eselect-rust **
+dev-lang/rust **
+dev-lang/rust-bin **
+virtual/cargo **
+virtual/rust **

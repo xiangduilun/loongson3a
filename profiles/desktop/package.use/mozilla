@@ -1,0 +1,3 @@
+www-client/firefox system-harfbuzz system-icu system-jpeg system-sqlite system-libevent system-libvpx
+mail-client/thunderbird  system-harfbuzz system-icu system-jpeg system-sqlite system-libevent system-libvpx
+

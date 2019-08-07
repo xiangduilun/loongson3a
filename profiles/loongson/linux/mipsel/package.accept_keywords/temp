@@ -1,15 +1,6 @@
 <dev-libs/libunistring-9999 **
 <x11-libs/libxkbcommon-9999 **
 
-<sys-devel/llvm-8.0.9999 **
-<sys-devel/llvm-common-8.0.9999 **
-<dev-util/lldb-8.0.9999 **
-<sys-libs/compiler-rt-8.0.9999 **
-<sys-libs/compiler-rt-sanitizers-8.0.9999 **
-<sys-devel/clang-8.0.9999 **
-<sys-devel/clang-common-9999 **
-<sys-devel/clang-runtime-9999 **
-
 <sys-fs/ntfs3g-9999 **
 
 <dev-util/re2c-9999 **

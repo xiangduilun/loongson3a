@@ -1,0 +1,3 @@
+media-libs/mesa -llvm
+
+dev-libs/boost -context

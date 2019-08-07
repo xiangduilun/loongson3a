@@ -1,0 +1,3 @@
+-vdpau
+-vaapi
+-vulkan

@@ -1,0 +1,2 @@
+sys-devel/clang -openmp
+sys-devel/clang-runtime -openmp

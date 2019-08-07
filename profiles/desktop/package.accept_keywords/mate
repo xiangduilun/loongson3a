@@ -1,0 +1,133 @@
+# required by mate-base/mate-1.22::gentoo
+# required by mate (argument)
+mate-base/mate-settings-daemon **
+# required by mate-extra/mate-media-1.22.1::gentoo
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+media-libs/libmatemixer **
+# required by mate-base/mate-1.22::gentoo
+# required by mate (argument)
+mate-base/mate-session-manager **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-power-manager **
+# required by mate-base/mate-1.22::gentoo
+# required by mate (argument)
+mate-base/mate-desktop **
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-base/caja **
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+x11-terms/mate-terminal **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-netbook **
+# required by mate-base/mate-1.22::gentoo
+# required by mate (argument)
+x11-wm/marco **
+# required by mate-base/mate-1.22::gentoo
+# required by mate (argument)
+mate-base/mate-panel **
+# required by mate-extra/mate-netbook-1.22.1::gentoo
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+x11-libs/libfakekey **
+# required by x11-themes/gtk-engines-murrine-0.98.2-r1::gentoo[themes]
+# required by x11-themes/mate-themes-3.22.19::gentoo
+# required by x11-themes/mate-themes-meta-3-r3::gentoo
+# required by mate-base/mate-1.22::gentoo[themes]
+# required by mate (argument)
+x11-themes/murrine-themes **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+media-gfx/eom **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-screensaver **
+# required by mate-base/mate-1.22::gentoo[notification]
+# required by mate (argument)
+x11-misc/mate-notification-daemon **
+# required by mate-base/mate-applets-meta-1.22.0::gentoo
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-base/mate-applets **
+# required by x11-themes/mate-themes-meta-3-r3::gentoo
+# required by mate-base/mate-1.22::gentoo[themes]
+# required by mate (argument)
+x11-themes/mate-themes **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-system-monitor **
+# required by mate-base/mate-applets-1.22.1::gentoo
+# required by mate-base/mate-applets-meta-1.22.0::gentoo
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+sys-power/cpupower **
+# required by mate (argument)
+mate-base/mate **
+# required by mate-base/mate-1.22::gentoo[themes]
+# required by mate (argument)
+x11-themes/mate-themes-meta **
+# required by mate-base/mate-1.22::gentoo
+# required by mate (argument)
+mate-base/mate-menus **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-utils **
+# required by mate-base/mate-control-center-1.22.1::gentoo
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-base/libmatekbd **
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-extra/mate-media **
+# required by mate-base/mate-session-manager-1.22.1::gentoo[-elogind,-systemd]
+# required by mate-extra/mate-screensaver-1.22.1::gentoo
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+app-editors/pluma **
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+x11-misc/mozo **
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-base/mate-control-center **
+# required by mate-base/mate-applets-1.22.1::gentoo
+# required by mate-base/mate-applets-meta-1.22.0::gentoo
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+dev-libs/libmateweather **
+# required by mate-extra/mate-power-manager-1.22.1::gentoo[policykit]
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-polkit **
+# required by mate-base/mate-1.22::gentoo[themes]
+# required by mate (argument)
+x11-themes/mate-backgrounds **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+app-arch/engrampa **
+# required by mate-base/mate-control-center-1.22.1::gentoo
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-base/mate-common **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/mate-calc **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+mate-extra/caja-extensions **
+# required by mate-base/mate-1.22::gentoo[extras]
+# required by mate (argument)
+app-text/atril **
+# required by x11-themes/murrine-themes-0.98.0-r1::gentoo
+x11-themes/gtk-engines-murrine **
+# required by mate-base/mate-1.22::gentoo[base]
+# required by mate (argument)
+mate-base/mate-applets-meta **
+# required by mate-base/mate-1.22::gentoo[themes]
+# required by mate (argument)
+x11-themes/mate-icon-theme **

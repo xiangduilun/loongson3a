@@ -1,0 +1,4 @@
+# required by mail-client/thunderbird-52.9.1::gentoo[crypt]
+# required by thunderbird (argument)
+=x11-plugins/enigmail-2.0.12 **
+

@@ -1,0 +1,16 @@
+# required by sys-power/pm-utils-1.4.1-r7::gentoo[video_cards_radeon]
+# required by xfce-extra/xfce4-power-manager-1.6.4::gentoo
+# required by xfce-base/xfce4-meta-4.14_pre3::gentoo[upower]
+# required by xfce-base/xfce4-meta (argument)
+app-laptop/radeontool **
+# required by xfce-base/xfce4-meta-4.14_pre3::gentoo
+# required by xfce-base/xfce4-meta (argument)
+xfce-extra/thunar-volman- **
+# required by xfce-base/xfce4-meta-4.14_pre3::gentoo
+# required by xfce-base/xfce4-meta (argument)
+xfce-extra/tumbler **
+# required by xfce-base/xfce4-meta-4.14_pre3::gentoo[upower]
+# required by xfce-base/xfce4-meta (argument)
+xfce-extra/xfce4-power-manager **
+
+xfce-extra/thunar-volman **

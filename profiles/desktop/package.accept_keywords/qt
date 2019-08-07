@@ -11,3 +11,93 @@
 # required by dev-qt/qtcore-4.8.7-r2::gentoo[qt3support]
 # required by dev-qt/qttranslations-4.8.7::gentoo
 <media-libs/glfw-9999 **
+
+# required by dev-qt/qtwidgets-5.12.4-r2::gentoo
+# required by app-crypt/pinentry-1.1.0-r3::gentoo[qt5]
+# required by app-crypt/gnupg-2.2.17::gentoo
+# required by app-crypt/gpgme-1.13.0::gentoo
+# required by app-portage/portage-utils-0.80_pre20190719::gentoo[qmanifest,-static]
+# required by app-admin/perl-cleaner-2.27::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-Time-HiRes-1.976.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by x11-misc/xdg-utils-1.1.3-r1::gentoo
+# required by net-print/cups-2.2.11::gentoo[X]
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qtchooser **
+# required by dev-qt/qtwidgets-5.12.4-r2::gentoo
+# required by app-crypt/pinentry-1.1.0-r3::gentoo[qt5]
+# required by app-crypt/gnupg-2.2.17::gentoo
+# required by app-crypt/gpgme-1.13.0::gentoo
+# required by app-portage/portage-utils-0.80_pre20190719::gentoo[qmanifest,-static]
+# required by app-admin/perl-cleaner-2.27::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-Time-HiRes-1.976.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by x11-misc/xdg-utils-1.1.3-r1::gentoo
+# required by net-print/cups-2.2.11::gentoo[X]
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qtgui **
+# required by app-text/poppler-0.79.0-r1::gentoo[qt5]
+# required by net-print/cups-filters-1.25.1::gentoo
+# required by net-print/cups-2.2.11::gentoo
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qtxml **
+# required by app-crypt/pinentry-1.1.0-r3::gentoo[qt5]
+# required by app-crypt/gnupg-2.2.17::gentoo
+# required by app-crypt/gpgme-1.13.0::gentoo
+# required by app-portage/portage-utils-0.80_pre20190719::gentoo[qmanifest,-static]
+# required by app-admin/perl-cleaner-2.27::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-Time-HiRes-1.976.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by x11-misc/xdg-utils-1.1.3-r1::gentoo
+# required by net-print/cups-2.2.11::gentoo[X]
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qtwidgets **
+# required by dev-qt/qtgui-5.12.4::gentoo
+# required by dev-qt/qtwidgets-5.12.4-r2::gentoo
+# required by app-crypt/pinentry-1.1.0-r3::gentoo[qt5]
+# required by app-crypt/gnupg-2.2.17::gentoo
+# required by app-crypt/gpgme-1.13.0::gentoo
+# required by app-portage/portage-utils-0.80_pre20190719::gentoo[qmanifest,-static]
+# required by app-admin/perl-cleaner-2.27::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-Time-HiRes-1.976.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by x11-misc/xdg-utils-1.1.3-r1::gentoo
+# required by net-print/cups-2.2.11::gentoo[X]
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qtcore **
+# required by app-crypt/gpgme-1.13.0::gentoo[qt5]
+# required by app-portage/portage-utils-0.80_pre20190719::gentoo[qmanifest,-static]
+# required by app-admin/perl-cleaner-2.27::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-Time-HiRes-1.976.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by x11-misc/xdg-utils-1.1.3-r1::gentoo
+# required by net-print/cups-2.2.11::gentoo[X]
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qttest **
+# required by dev-qt/qtgui-5.12.4::gentoo[dbus]
+# required by dev-qt/qtwidgets-5.12.4-r2::gentoo
+# required by app-crypt/pinentry-1.1.0-r3::gentoo[qt5]
+# required by app-crypt/gnupg-2.2.17::gentoo
+# required by app-crypt/gpgme-1.13.0::gentoo
+# required by app-portage/portage-utils-0.80_pre20190719::gentoo[qmanifest,-static]
+# required by app-admin/perl-cleaner-2.27::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-Time-HiRes-1.976.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by x11-misc/xdg-utils-1.1.3-r1::gentoo
+# required by net-print/cups-2.2.11::gentoo[X]
+# required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+dev-qt/qtdbus **
+
