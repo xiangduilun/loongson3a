@@ -1,0 +1,30 @@
+# required by sci-electronics/kicad-5.1.2::gentoo[python]
+# required by kicad (argument)
+dev-python/wxpython **
+# required by sci-electronics/kicad-5.1.2::gentoo
+# required by kicad (argument)
+sci-electronics/electronics-menu **
+# required by dev-tcltk/itk-4.1.0::gentoo
+# required by sci-libs/oce-0.18.3-r1::gentoo
+# required by sci-electronics/kicad-5.1.2::gentoo[oce]
+# required by kicad (argument)
+dev-tcltk/itcl **
+# required by sci-electronics/kicad-5.1.2::gentoo[ngspice]
+# required by kicad (argument)
+sci-electronics/ngspice **
+# required by sci-libs/oce-0.18.3-r1::gentoo
+# required by sci-electronics/kicad-5.1.2::gentoo[oce]
+# required by kicad (argument)
+dev-tcltk/itk **
+# required by kicad (argument)
+sci-electronics/kicad **
+# required by sci-electronics/kicad-5.1.2::gentoo
+# required by kicad (argument)
+media-libs/glm **
+# required by sci-electronics/ngspice-27-r1::gentoo[X]
+# required by sci-electronics/kicad-5.1.2::gentoo[ngspice]
+# required by kicad (argument)
+sci-visualization/xgraph **
+# required by sci-electronics/kicad-5.1.2::gentoo[oce]
+# required by kicad (argument)
+sci-libs/oce **

@@ -1,7 +1,7 @@
 USE_EXPAND="CPU_FLAGS_MIPS ${USE_EXPAND}"
 USE_EXPAND_HIDDEN="-CPU_FLAGS_MIPS"
 
-USE="fortran openmp"
+USE="fortran"
 
 # Donnie Berkholz <dberkholz@gentoo.org> (2006-08-18)
 # Defaults for video drivers
