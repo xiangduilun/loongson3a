@@ -1,0 +1,9 @@
+# required by media-video/mpv-9999::gentoo[luajit,lua]
+# required by mpv (argument)
+dev-lang/luajit **
+# required by media-video/mpv-9999::gentoo[iconv,uchardet]
+# required by mpv (argument)
+<app-i18n/uchardet-9999 **
+# required by mpv (argument)
+<media-video/mpv-9999 **
+

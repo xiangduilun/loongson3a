@@ -1,0 +1,5 @@
+# required by screenfetch (argument)
+<app-misc/screenfetch-9999 **
+# required by app-misc/screenfetch-9999::gentoo[X]
+# required by screenfetch (argument)
+media-gfx/scrot **

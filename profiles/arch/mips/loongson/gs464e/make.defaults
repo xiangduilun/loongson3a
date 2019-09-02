@@ -1,4 +1,4 @@
-CFLAGS="-O2 -pipe -march=gs464e -mtune=gs464e"
+CFLAGS="-march=gs464e -mtune=gs464e -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
 FFLAGS="${CFLAGS}"
 FCFLAGS="${CFLAGS}"

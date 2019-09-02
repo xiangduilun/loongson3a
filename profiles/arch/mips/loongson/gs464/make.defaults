@@ -1,4 +1,4 @@
-CFLAGS="-O2 -pipe -march=loongson3a -mtune=loongson3a"
+CFLAGS="-march=loongson3a -mtune=loongson3a -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
 FFLAGS="${CFLAGS}"
 FCFLAGS="${CFLAGS}"
