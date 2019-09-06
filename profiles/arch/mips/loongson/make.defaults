@@ -1,0 +1,5 @@
+CFLAGS="-march=loongson3a -mtune=loongson3a -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+FFLAGS="${CFLAGS}"
+FCFLAGS="${CFLAGS}"
+CPU_FLAGS_MIPS="mipsr2 lext"

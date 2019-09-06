@@ -5,7 +5,7 @@
 app-laptop/radeontool **
 # required by xfce-base/xfce4-meta-4.14_pre3::gentoo
 # required by xfce-base/xfce4-meta (argument)
-xfce-extra/thunar-volman- **
+xfce-extra/thunar-volman **
 # required by xfce-base/xfce4-meta-4.14_pre3::gentoo
 # required by xfce-base/xfce4-meta (argument)
 xfce-extra/tumbler **
@@ -13,4 +13,3 @@ xfce-extra/tumbler **
 # required by xfce-base/xfce4-meta (argument)
 xfce-extra/xfce4-power-manager **
 
-xfce-extra/thunar-volman **

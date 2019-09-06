@@ -2,21 +2,19 @@
 mips    desktop/3a3000  dev
 
 mips	loongson/linux/mipsel/17.0/multilib dev
-mips	loongson/linux/mipsel/17.0/multilib/gs264e dev
-mips	loongson/linux/mipsel/17.0/multilib/gs464 dev
-mips	loongson/linux/mipsel/17.0/multilib/gs464e dev
+mips	loongson/linux/mipsel/17.0/multilib/systemd dev
 
 mips	loongson/linux/mipsel/17.0/multilib/desktop dev
-mips	loongson/linux/mipsel/17.0/multilib/desktop/gs264e dev
-mips	loongson/linux/mipsel/17.0/multilib/desktop/gs464 dev
-mips	loongson/linux/mipsel/17.0/multilib/desktop/gs464e dev
+mips	loongson/linux/mipsel/17.0/multilib/desktop/gnome dev
+mips	loongson/linux/mipsel/17.0/multilib/desktop/gnome/systemd dev
+mips	loongson/linux/mipsel/17.0/multilib/desktop/plasma dev
+mips	loongson/linux/mipsel/17.0/multilib/desktop/plasma/systemd dev
 
 mips	loongson/linux/mipsel/17.0/n64 dev
-mips	loongson/linux/mipsel/17.0/n64/gs264e dev
-mips	loongson/linux/mipsel/17.0/n64/gs464 dev
-mips	loongson/linux/mipsel/17.0/n64/gs464e dev
+mips	loongson/linux/mipsel/17.0/n64/systemd dev
 
 mips	loongson/linux/mipsel/17.0/n64/desktop dev
-mips	loongson/linux/mipsel/17.0/n64/desktop/gs264e dev
-mips	loongson/linux/mipsel/17.0/n64/desktop/gs464 dev
-mips	loongson/linux/mipsel/17.0/n64/desktop/gs464e dev
+mips	loongson/linux/mipsel/17.0/n64/desktop/gnome dev
+mips	loongson/linux/mipsel/17.0/n64/desktop/gnome/systemd dev
+mips	loongson/linux/mipsel/17.0/n64/desktop/plasma dev
+mips	loongson/linux/mipsel/17.0/n64/desktop/plasma/systemd dev

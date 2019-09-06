@@ -1,0 +1,11 @@
+# required by openjdk (argument)
+dev-java/openjdk **
+# required by dev-java/openjdk-11.0.4_p11::gentoo
+# required by openjdk (argument)
+sys-apps/baselayout-java **
+# required by dev-java/openjdk-11.0.4_p11::gentoo[webstart]
+# required by openjdk (argument)
+dev-java/icedtea-web **
+# required by icedtea (argument)
+dev-java/icedtea **
+

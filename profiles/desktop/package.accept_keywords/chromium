@@ -1,0 +1,35 @@
+# required by www-client/chromium-77.0.3865.56::gentoo
+# required by chromium (argument)
+<dev-lang/yasm-9999 **
+# required by dev-java/loongson-jdk-bin-8.202_p08-r3::loongson
+# required by virtual/jdk-1.8.0-r3::loongson
+# required by virtual/jre-1.8.0-r2::gentoo
+# required by www-client/chromium-77.0.3865.56::gentoo[closure-compile]
+# required by chromium (argument)
+app-eselect/eselect-java **
+# required by www-client/chromium-77.0.3865.56::gentoo
+# required by chromium (argument)
+dev-util/gn **
+# required by www-client/chromium-77.0.3865.56::gentoo[closure-compile]
+# required by chromium (argument)
+virtual/jre **
+# required by www-client/chromium-77.0.3865.56::gentoo
+# required by chromium (argument)
+dev-libs/re2 **
+# required by chromium (argument)
+www-client/chromium **
+
+# required by dev-java/icedtea-bin-3.13.0::gentoo
+# required by virtual/jdk-1.8.0-r3::loongson
+# required by dev-java/icedtea-sound-1.0.1::gentoo
+virtual/jpeg-compat **
+# required by dev-java/icedtea-bin-3.13.0::gentoo[pulseaudio]
+# required by virtual/jdk-1.8.0-r3::loongson
+# required by virtual/jre-1.8.0-r2::gentoo
+# required by www-client/chromium-76.0.3809.132::loongson[closure-compile]
+# required by chromium (argument)
+dev-java/icedtea-sound **
+# required by virtual/jdk-1.8.0-r3::loongson
+# required by dev-java/icedtea-sound-1.0.1::gentoo
+dev-java/icedtea-bin **
+

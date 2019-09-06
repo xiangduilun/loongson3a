@@ -1,0 +1,12 @@
+# required by vlc (argument)
+<media-video/vlc-9999 **
+# required by media-video/vlc-9999::gentoo[dvbpsi]
+# required by vlc (argument)
+media-libs/libdvbpsi **
+# required by media-video/vlc-9999::gentoo[qt5]
+# required by vlc (argument)
+dev-qt/qtsvg **
+# required by media-video/vlc-9999::gentoo[qt5,X]
+# required by vlc (argument)
+dev-qt/qtx11extras **
+

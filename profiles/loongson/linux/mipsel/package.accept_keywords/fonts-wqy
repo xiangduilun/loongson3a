@@ -1,0 +1,7 @@
+# required by wqy-zenhei (argument)
+media-fonts/wqy-zenhei **
+# required by media-fonts/wqy-microhei-0.2.0_beta-r1::gentoo
+# required by wqy-microhei (argument)
+dev-util/xdelta **
+# required by wqy-microhei (argument)
+media-fonts/wqy-microhei **

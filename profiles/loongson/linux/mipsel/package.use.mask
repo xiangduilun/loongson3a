@@ -1,0 +1,2 @@
+media-libs/mesa -vulkan -vulkan-overlay
+media-libs/freetype -infinality

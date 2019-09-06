@@ -1,0 +1,4 @@
+#use.local
+media-libs/mesa vulkan opencl
+#use.global
+media-libs/mesa vdpau vaapi wayland

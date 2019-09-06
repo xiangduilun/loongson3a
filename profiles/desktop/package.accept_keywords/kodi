@@ -1,0 +1,21 @@
+# package.accept_keywords# required by media-tv/kodi-9999::gentoo
+# required by kodi (argument)
+<dev-libs/rapidjson-9999 **
+# required by media-tv/kodi-9999::gentoo
+# required by kodi (argument)
+dev-libs/crossguid **
+# required by kodi (argument)
+<media-tv/kodi-9999 **
+# required by media-tv/kodi-9999::gentoo
+# required by kodi (argument)
+media-fonts/roboto **
+# required by media-tv/kodi-9999::gentoo
+# required by kodi (argument)
+dev-libs/libfstrcmp **
+# required by media-tv/kodi-9999::gentoo
+# required by kodi (argument)
+dev-libs/flatbuffers **
+# required by media-tv/kodi-17.6-r11::gentoo
+# required by =media-tv/kodi-17.6-r11 (argument)
+dev-libs/yajl **
+

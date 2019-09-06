@@ -1,0 +1,110 @@
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<media-libs/libpagemaker-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+dev-libs/redland **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+sci-mathematics/lpsolve **
+# required by dev-libs/liborcus-9999::gentoo[spreadsheet-model]
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<dev-libs/libixion-9999 **
+# required by dev-libs/rasqal-0.9.33::gentoo
+# required by dev-libs/redland-1.0.17-r2::gentoo
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+media-libs/raptor **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/libnumbertext **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/liblangtag **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<app-text/libmspub-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<app-text/libetonyek-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<app-text/libmwaw-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+dev-libs/xmlsec **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/mythes **
+# required by dev-libs/spdlog-9999::gentoo
+# required by dev-libs/libixion-9999::gentoo
+# required by dev-libs/liborcus-9999::gentoo[spreadsheet-model]
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<dev-libs/libfmt-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<media-libs/libfreehand-9999 **
+# required by dev-libs/libixion-9999::gentoo
+# required by dev-libs/liborcus-9999::gentoo[spreadsheet-model]
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<dev-util/mdds-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<media-libs/libzmf-9999 **
+# required by dev-libs/redland-1.0.17-r2::gentoo
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+dev-libs/rasqal **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/libwps **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/libqxp **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/libabw **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+sys-devel/ucpp **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-office/libreoffice-l10n **
+# required by dev-libs/libixion-9999::gentoo
+# required by dev-libs/liborcus-9999::gentoo[spreadsheet-model]
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<dev-libs/spdlog-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<media-libs/libvisio-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+media-fonts/liberation-fonts **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+dev-cpp/libcmis **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<dev-libs/liborcus-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo[mariadb]
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<dev-db/mariadb-connector-c-9999 **
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-office/libreoffice **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/libepubgen **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<app-text/libstaroffice-9999 **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+app-text/libebook **
+# required by app-office/libreoffice-6.2.6.2::gentoo
+# required by =app-office/libreoffice-6.2.6.2 (argument)
+<app-text/libodfgen-9999 **
+
