@@ -1,0 +1,10 @@
+# required by media-plugins/gst-plugins-meta-1.14.3::gentoo[x264]
+# required by media-sound/rhythmbox-3.4.4::gentoo
+# required by @selected
+# required by @world (argument)
+media-plugins/gst-plugins-x264 **
+# required by media-plugins/gst-plugins-meta-1.14.3::gentoo[vaapi]
+# required by media-sound/rhythmbox-3.4.4::gentoo
+# required by @selected
+# required by @world (argument)
+media-plugins/gst-plugins-vaapi **

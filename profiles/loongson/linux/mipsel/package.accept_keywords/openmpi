@@ -1,0 +1,11 @@
+# required by dev-libs/boost-1.72.0-r1::gentoo[mpi]
+# required by sci-electronics/kicad-5.1.5-r1::gentoo
+# required by @selected
+# required by @world (argument)
+virtual/mpi **
+# required by virtual/mpi-2.0-r5::gentoo
+# required by dev-libs/boost-1.72.0-r1::gentoo[mpi]
+# required by sci-electronics/kicad-5.1.5-r1::gentoo
+# required by @selected
+# required by @world (argument)
+sys-cluster/openmpi **

@@ -1,0 +1,7 @@
+# required by dev-libs/boost-1.72.0-r1::gentoo[mpi]
+# required by net-libs/nghttp2-1.40.0::loongson[cxx]
+# required by net-libs/nodejs-10.16.0::loongson
+# required by mail-client/thunderbird-68.5.0::gentoo
+# required by @selected
+# required by @world (argument)
+virtual/mpi threads

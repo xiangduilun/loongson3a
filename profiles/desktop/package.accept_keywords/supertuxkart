@@ -1,0 +1,9 @@
+# required by games-action/supertuxkart-1.0::gentoo
+# required by supertuxkart (argument)
+dev-libs/angelscript **
+# required by games-action/supertuxkart-1.0::gentoo
+# required by supertuxkart (argument)
+net-libs/enet **
+# required by supertuxkart (argument)
+games-action/supertuxkart **
+

@@ -1,0 +1,27 @@
+sys-block/gparted **
+
+# required by sys-block/gparted-0.33.0::gentoo[udf]
+# required by gparted (argument)
+sys-fs/udftools **
+# required by sys-block/gparted-0.33.0::gentoo[fat]
+# required by gparted (argument)
+sys-fs/mtools **
+# required by sys-block/gparted-0.33.0::gentoo[dmraid]
+# required by gparted (argument)
+sys-fs/dmraid **
+# required by sys-block/gparted-0.33.0::gentoo[reiser4]
+# required by gparted (argument)
+sys-fs/reiser4progs **
+# required by sys-fs/reiser4progs-1.2.1::gentoo[-static]
+# required by sys-block/gparted-0.33.0::gentoo[reiser4]
+# required by gparted (argument)
+sys-libs/libaal **
+# required by sys-block/gparted-0.33.0::gentoo[hfs]
+# required by gparted (argument)
+sys-fs/diskdev_cmds **
+# required by sys-block/gparted-0.33.0::gentoo[hfs]
+# required by gparted (argument)
+sys-fs/hfsutils **
+# required by sys-block/gparted-0.33.0::gentoo[dmraid]
+# required by gparted (argument)
+sys-fs/multipath-tools **

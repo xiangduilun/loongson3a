@@ -1,3 +1,11 @@
 mail-client/thunderbird **
 www-client/firefox **
 dev-util/cbindgen **
+# required by www-client/firefox-68.5.0::gentoo[system-av1]
+# required by @selected
+# required by @world (argument)
+<media-libs/dav1d-9999 **
+# required by mail-client/thunderbird-68.5.0::gentoo[system-av1]
+# required by @selected
+# required by @world (argument)
+<media-libs/libaom-9999 **

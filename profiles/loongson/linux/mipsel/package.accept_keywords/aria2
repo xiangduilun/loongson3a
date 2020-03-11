@@ -1,0 +1,3 @@
+# required by aria2 (argument)
+net-misc/aria2 **
+

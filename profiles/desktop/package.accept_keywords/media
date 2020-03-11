@@ -1,5 +1,5 @@
    # required by inkscape (argument)
-media-gfx/inkscape **
+<media-gfx/inkscape-9999 **
 # required by blender (argument)
 media-gfx/blender **
 # required by rhythmbox (argument)

@@ -593,3 +593,4 @@ media-libs/gst-plugins-base **
 # required by gnome-base/gnome-3.30.2::gentoo[extras]
 # required by gnome (argument)
 media-libs/graphene **
+sys-apps/gnome-disk-utility **

@@ -1,0 +1,25 @@
+# required by games-simulation/flightgear-9999::gentoo
+# required by flightgear (argument)
+<dev-games/simgear-9999 **
+# required by games-simulation/flightgear-9999::gentoo
+# required by flightgear (argument)
+<games-simulation/flightgear-data-9999 **
+# required by games-simulation/flightgear-9999::gentoo[qt5]
+# required by flightgear (argument)
+dev-qt/qtdeclarative **
+# required by games-simulation/flightgear-9999::gentoo
+# required by flightgear (argument)
+media-libs/plib **
+# required by dev-games/simgear-9999::gentoo
+# required by games-simulation/flightgear-9999::gentoo
+# required by flightgear (argument)
+net-libs/udns **
+# required by flightgear (argument)
+<games-simulation/flightgear-9999 **
+# required by games-simulation/flightgear-9999::gentoo[qt5,utils]
+# required by flightgear (argument)
+dev-qt/qtwebsockets **
+# required by games-simulation/flightgear-9999::gentoo
+# required by flightgear (argument)
+dev-games/openscenegraph **
+

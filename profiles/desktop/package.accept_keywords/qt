@@ -100,4 +100,11 @@ dev-qt/qttest **
 # required by x11-libs/gtk+-2.24.32-r1::gentoo[cups]
 # required by x11-themes/gtk-engines-adwaita-3.28::gentoo
 dev-qt/qtdbus **
-
+# # required by dev-qt/qtsingleapplication-2.6.1_p20171024::gentoo
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/qtnetwork **
+# # required by dev-qt/qtsingleapplication-2.6.1_p20171024::gentoo
+# # required by media-video/smplayer-19.5.0::gentoo
+# # required by smplayer (argument)
+dev-qt/qtlockedfile **

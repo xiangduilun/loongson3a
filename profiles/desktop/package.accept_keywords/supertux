@@ -1,0 +1,8 @@
+# required by games-arcade/supertux-0.6.0::gentoo
+# required by supertux (argument)
+media-libs/sdl2-image **
+# required by games-arcade/supertux-0.6.0::gentoo
+# required by supertux (argument)
+<dev-games/physfs-9999 **
+# required by supertux (argument)
+games-arcade/supertux **

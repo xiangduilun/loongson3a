@@ -1,10 +1,8 @@
-<app-i18n/fcitx-9999 **
-<app-i18n/opencc-9999 **
+<app-i18n/fcitx-4.9999 **
+<app-i18n/fcitx-configtool-4.9999 **
+<app-i18n/fcitx-table-extra-4.9999 **
+<app-i18n/fcitx-sunpinyin-9999 **
 <app-i18n/sunpinyin-9999 **
 <app-i18n/sunpinyin-data-99999999 **
-<app-i18n/fcitx-sunpinyin-9999 **
-# required by fcitx-configtool (argument)
-<app-i18n/fcitx-configtool-4.9999 **
-# required by fcitx-table-extra (argument)
-<app-i18n/fcitx-table-extra-4.9999 **
+<app-i18n/opencc-9999 **
 

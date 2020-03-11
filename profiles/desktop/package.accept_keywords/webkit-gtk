@@ -1,0 +1,9 @@
+# required by webkit-gtk (argument)
+net-libs/webkit-gtk **
+# required by net-libs/webkit-gtk-2.24.4::gentoo
+# required by webkit-gtk (argument)
+media-libs/woff2 **
+# required by net-libs/webkit-gtk-2.24.4::gentoo
+# required by webkit-gtk (argument)
+dev-libs/hyphen **
+

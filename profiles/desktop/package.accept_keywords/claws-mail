@@ -1,0 +1,10 @@
+# required by =mail-client/claws-mail-3.17.4 (argument)
+<mail-client/claws-mail-9999 **
+# required by mail-client/claws-mail-3.17.4::gentoo
+# required by =mail-client/claws-mail-3.17.4 (argument)
+net-mail/ytnef **
+# required by dev-libs/libindicate-12.10.1-r3::gentoo
+# required by mail-client/claws-mail-3.17.4::gentoo[notification,libindicate]
+# required by =mail-client/claws-mail-3.17.4 (argument)
+dev-libs/libdbusmenu **
+
