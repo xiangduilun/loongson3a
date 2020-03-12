@@ -476,6 +476,10 @@ src_configure() {
 		fi
 	fi
 
+	if [[ ${CHOST} == mips* ]] ; then
+        mozconfig_annotate 'on mips disable webrtc' --disable-webrtc
+	fi
+
 	mozconfig_use_enable !bindist official-branding
 
 	mozconfig_use_enable debug

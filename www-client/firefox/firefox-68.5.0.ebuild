@@ -446,7 +446,7 @@ src_configure() {
 		if use clang ; then
 			# This is upstream's default
 			if [[ ${CHOST} == mips* ]]; then
-				mozconfig_annotate "forcing ld=lld due to USE=clang" --enable-linker=bfd
+				mozconfig_annotate "forcing ld=lld due to USE=clang but mips use bfd" --enable-linker=bfd
 			else
 				mozconfig_annotate "forcing ld=lld due to USE=clang" --enable-linker=lld
 			fi
@@ -483,6 +483,10 @@ src_configure() {
 			sed -i -e "s|softfp|hard|" \
 				"${S}"/media/libvpx/moz.build
 		fi
+	fi
+
+	if [[ ${CHOST} == mips* ]] ; then
+		mozconfig_annotate 'on mips disable webrtc' --disable-webrtc
 	fi
 
 	mozconfig_use_enable !bindist official-branding
