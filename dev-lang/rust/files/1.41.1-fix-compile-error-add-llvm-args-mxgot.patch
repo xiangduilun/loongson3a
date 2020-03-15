@@ -1,0 +1,25 @@
+From 08a8679759b889a02f093715e335c8edfa826889 Mon Sep 17 00:00:00 2001
+From: shikongzhineng <shikongzhineng@163.com>
+Date: Mon, 9 Mar 2020 10:35:44 +0800
+Subject: [PATCH] fix compile error add llvm-args=-mxgot
+
+---
+ src/bootstrap/bootstrap.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/bootstrap/bootstrap.py b/src/bootstrap/bootstrap.py
+index bb1694148..dbd260d6a 100644
+--- a/src/bootstrap/bootstrap.py
++++ b/src/bootstrap/bootstrap.py
+@@ -645,7 +645,7 @@ class RustBuild(object):
+             if "LIBRARY_PATH" in env else ""
+         # preserve existing RUSTFLAGS
+         env.setdefault("RUSTFLAGS", "")
+-        env["RUSTFLAGS"] += " -Cdebuginfo=2"
++        env["RUSTFLAGS"] += " -Cdebuginfo=2 -C llvm-args=-mxgot"
+ 
+         build_section = "target.{}".format(self.build_triple())
+         target_features = []
+-- 
+2.25.1
+
