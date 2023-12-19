@@ -1,0 +1,15 @@
+>sys-devel/llvm-18
+>sys-devel/llvm-common-18
+>sys-devel/llvmgold-18
+>sys-devel/lld-18
+
+>sys-devel/clang-18
+>sys-devel/clang-common-18
+>sys-devel/clang-runtime-18
+
+>sys-libs/compiler-rt-18
+>sys-libs/compiler-rt-sanitizers-18
+
+>sys-libs/libomp-18
+
+>dev-util/lldb-18

@@ -1,16 +1,15 @@
-<sys-devel/llvm-9.0.9999 **
-<sys-devel/llvm-common-9.0.9999 **
-<sys-devel/llvmgold-9.0.9999 **
-<sys-devel/lld-9.0.9999 **
+sys-devel/llvm **
+sys-devel/llvm-common **
+sys-devel/llvmgold **
+sys-devel/lld- **
 
-<sys-devel/clang-9.0.9999 **
-<sys-devel/clang-common-9.0.9999 **
-<sys-devel/clang-runtime-9.0.9999 **
+sys-devel/clang **
+sys-devel/clang-common **
+sys-devel/clang-runtime **
 
+sys-libs/compiler-rt **
+sys-libs/compiler-rt-sanitizers **
 
-<sys-libs/compiler-rt-9.0.9999 **
-<sys-libs/compiler-rt-sanitizers-9.0.9999 **
+sys-libs/libomp **
 
-<sys-libs/libomp-9.0.9999 **
-
-<dev-util/lldb-9.0.9999 **
+dev-util/lldb **
